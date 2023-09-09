@@ -2,8 +2,10 @@
 <h3 align="center">
 Greetings! Myself Kaniz Fatema, a Computer Science Engineer and a Consultant-Research Assistant proudly affiliated with Charles Darwin University, Australia, and United International University (UIU), Bangladesh. My educational journey saw its zenith at the Department of Computer Science and Engineering, Daffodil International University. Initially, I started my research work in the agriculture field. After that, my interest grew in health informatics to aid medical specialists and radiologists diagnose health diseases through an automated system that can save human lives. After that, I started working on different real-time projects in various domains. My profound research interests encompass the realms of Computer Vision, Deep Learning, Machine Learning, Image Processing, Progression Analysis, Segmentation, Graph Optimization, Explainable Artificial Intelligence, and the captivating field of Biomedical Engineering. My insatiable thirst for knowledge drives me to seek for a foundation upon which we may build a future where machines and humans coexist. The chance to broaden my social circle and learn from people with varying experiences and perspectives is one of my favourite parts of making new connections and expanding my capacity for success.
 </h3>
+<center>
+  <img align ="center" alt="Coding" width="600" height =" 300" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
+</center>
 
-<img align ="center" alt="Coding" width="600" height =" 300" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
 
 
 - 🔭 I’m currently working as a Research Consultant at Charles Darwin University (CDU). [Diagnosis of otitis media using machine learning collaboration with Menzies School of Health Research, Australia](https://www.menzies.edu.au/)
