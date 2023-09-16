@@ -13,7 +13,7 @@ Greetings! I am Kaniz Fatema, a Computer Science Engineer and a Consultant-Resea
 
 - 📫 How to reach me **kaniz15-12344@diu.edu.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yuP0tpdv1rGq6YdWlRCNNsb8IWNgpLVO/view?usp=sharing](https://drive.google.com/file/d/1yuP0tpdv1rGq6YdWlRCNNsb8IWNgpLVO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
