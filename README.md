@@ -22,7 +22,7 @@
 
 <!-- Research Banner GIF -->
 <center>
-  <img align="center" alt="Research" width="900" height="450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
+  <img align="center" alt="Research" width="1000" height="450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
 </center>
 
 
