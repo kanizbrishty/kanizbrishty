@@ -1,71 +1,29 @@
-<table>
-  <tr>
-    <!-- Left column: Profile picture -->
-    <td width="35%" align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/kanizbrishty" 
-           alt="Kaniz Fatema" 
-           style="border-radius:10px; width:100%; max-width:280px; height:auto; object-fit:cover;">
-    </td>
-    
-    <!-- Right column: Intro + details -->
-    <td width="65%" valign="top">
-      <h1>Hi 👋, I'm Kaniz Fatema</h1>
-      <p>
-        Greetings! I am Kaniz Fatema, a Graduate Research and Teaching Assistant at Wilfrid Laurier University, Canada. 
-        Previously, I served as a Research Consultant and Research Assistant at Charles Darwin University (Australia) 
-        and United International University (Bangladesh). Since beginning my research journey in 2021, 
-        I have authored and co-authored multiple papers in Scopus-indexed Q1 journals.
-      </p>
-      <p>
-        My research focuses on <b>health informatics, medical imaging, computer vision, deep learning, 
-        and explainable AI</b>. I have contributed to diagnostic systems for 
-        ECG analysis, knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, colorectal cancer, 
-        and prostate imaging. Currently, I am exploring <b>advanced neural architectures for medical image classification, 
-        federated learning, and segmentation of prostate structures from micro-ultrasound images</b>.
-      </p>
+<h1 align="center">Hi 👋, I'm Kaniz Fatema</h1>
+<h3 align="left">
+Greetings! I am Kaniz Fatema, a Computer Science Engineer and a Consultant-Research Assistant proudly affiliated with Charles Darwin University, Australia, and United International University (UIU), Bangladesh. I started my research work in 2021 and have published multiple papers in the Scopus-indexed Q1 journal. My profound research interests encompass the realms of Computer Vision, Deep Learning, Machine Learning, Image Processing, Progression Analysis, Segmentation, Graph Optimisation, Explainable Artificial Intelligence, and the captivating field of Biomedical Engineering. Moreover, several applications, including the classification and detection of different medical areas such as electrocardiogram (ECG), knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, and colorectal cancer, are also explored. Moreover, I am looking into more medical fields to aid the specialist by exploring an automated system. Consequently, my insatiable thirst for knowledge drives me to seek a foundation upon which we may build a future where machines and humans coexist. The chance to broaden my social circle and learn from people with varying experiences and perspectives is one of my favourite parts of making new connections and expanding my capacity for success.
+</h3>
+<center>
+  <img align ="center" alt="Coding" width="850" height =" 450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
+</center>
+- 🔭 I’m currently working as a Research Consultant at Charles Darwin University (CDU), collaboration with Menzies School of Health Research, Australia(https://www.menzies.edu.au/)
 
-      <ul>
-        <li>🔭 Graduate Research & Teaching Assistant at <b>Wilfrid Laurier University (WLU), Canada</b></li>
-        <li>🌱 Exploring <b>advanced neural architectures, federated learning, and 3D medical image analysis</b></li>
-        <li>💬 Ask me about <b>TensorFlow, PyTorch, Python, Deep Learning, Computer Vision, Medical Imaging</b></li>
-        <li>📫 Reach me at: <b>fate2180@mylaurier.ca</b></li>
-        <li>📄 Learn more: <a href="https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing" target="_blank">My Resume</a></li>
-      </ul>
+- 🌱 I’m currently learning **Federated learning, 3D medical image analysis**
 
-      <h3>Connect with me:</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/kaniz-fatema-362a0119b/" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-               alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://www.facebook.com/profile.php?id=100032561146692" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-               alt="Facebook" height="30" width="40" />
-        </a>
-      </p>
+- 💬 Ask me about **Tensorflow, PyTORCH, Python, Deep learning, Machine learning, Computer Vision, and Image Processing**
 
-      <h3>Languages and Tools:</h3>
-      <p>
-        <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-        <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-        <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-        <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-        <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
-        <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-        <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-        <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/> </a>
-        <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-        <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-      </p>
+- 📫 How to reach me **kaniz15-12344@diu.edu.bd**
 
-      <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanizbrishty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </p>
-      <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanizbrishty&show_icons=true&locale=en" alt="GitHub Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
+- 📄 Know about my experiences [https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaniz-fatema-362a0119b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaniz-fatema-362a0119b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100032561146692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032561146692" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanizbrishty&show_icons=true&locale=en&layout=compact" alt="kanizbrishty" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanizbrishty&show_icons=true&locale=en" alt="kanizbrishty" /></p>
