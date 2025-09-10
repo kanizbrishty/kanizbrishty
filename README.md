@@ -3,18 +3,24 @@
 <!-- Two-column layout using table (fix width and valign) -->
 <table>
   <tr>
-    <!-- Left column: Profile Picture -->
-    <td width="35%" align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/kanizbrishty" alt="Kaniz Fatema" width="220" style="border-radius:50%; margin-top:20px;">
+   <td width="35%" align="center" valign="top">
+      <img src="https://avatars.githubusercontent.com/kanizbrishty" 
+           alt="Kaniz Fatema" 
+           width="100%" 
+           style="border-radius:10px; max-width:300px; height:auto; object-fit:cover; margin-top:10px;">
     </td>
+    
     <!-- Right column: Intro Text -->
     <td width="65%" valign="top">
       <h3 align="left">
-      Greetings! I am Kaniz Fatema, a Graduate Research and Teaching Assistant at Wilfrid Laurier University, Canada, with prior experience as a Research Consultant and Research Assistant at Charles Darwin University (Australia) and United International University (Bangladesh). I began my research journey in 2021 and have since published multiple papers in Scopus-indexed Q1 journals.  
+      Greetings! I am Kaniz Fatema, a Graduate Research and Teaching Assistant at Wilfrid Laurier University, Canada.  
+      Previously, I served as a Research Consultant and Research Assistant at Charles Darwin University (Australia) and United International University (Bangladesh). Since beginning my research journey in 2021, I have authored and co-authored multiple papers in Scopus-indexed Q1 journals.  
       <br><br>
-      My research interests span health informatics, medical imaging, computer vision, deep learning, machine learning, image processing, progression analysis, segmentation, graph optimization, and explainable AI, with a strong focus on biomedical engineering. I have worked on diverse applications, including ECG analysis, knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, colorectal cancer, and prostate imaging. Currently, I am exploring federated learning and 3D medical image analysis to design intelligent, resource-efficient diagnostic systems that support clinicians in data-scarce environments.  
+      My research is driven by a strong focus on health informatics, medical imaging, computer vision, deep learning, and explainable AI. I have contributed to the development of intelligent diagnostic systems in areas such as ECG analysis, knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, colorectal cancer, and prostate imaging.  
       <br><br>
-      My passion lies in advancing interpretable AI for healthcare, fostering collaborations, and contributing to a future where intelligent systems augment human expertise. I also value building connections with diverse communities to broaden perspectives and enhance success.  
+      At present, my work explores advanced architectures for medical image classification with limited data, segmentation of prostate structures from micro-ultrasound images, and innovative approaches like Taylor-series expanded Kolmogorov–Arnold Networks. I am also engaged in federated learning and 3D medical image analysis to design resource-efficient systems that support clinicians in data-scarce healthcare environments.  
+      <br><br>
+      My passion lies in creating interpretable AI solutions that bridge clinical needs with cutting-edge technology, while fostering collaborations and building connections across diverse communities to broaden perspectives and success.  
       </h3>
     </td>
   </tr>
@@ -27,7 +33,7 @@
 
 
 - 🔭 I’m currently working as a Graduate Research & Teaching Assistant at **Wilfrid Laurier University (WLU), Canada**.  
-- 🌱 I’m currently learning **Federated Learning, 3D Medical Image Analysis**.  
+- 🌱 I’m currently exploring **federated learning, 3D medical image analysis, and advanced neural architectures for medical imaging**.  
 - 💬 Ask me about **TensorFlow, PyTorch, Python, Deep Learning, Machine Learning, Computer Vision, and Medical Imaging**.  
 - 📫 How to reach me: **fate2180@mylaurier.ca**  
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
