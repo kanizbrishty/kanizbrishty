@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kaniz Fatema</h1>
 <h3 align="left">
-Greetings! I am Kaniz Fatema, a Computer Science Engineer and a Consultant-Research Assistant proudly affiliated with Charles Darwin University, Australia, and United International University (UIU), Bangladesh. I started my research work in 2021 and have published multiple papers in the Scopus-indexed Q1 journal. My profound research interests encompass the realms of Computer Vision, Deep Learning, Machine Learning, Image Processing, Progression Analysis, Segmentation, Graph Optimisation, Explainable Artificial Intelligence, and the captivating field of Biomedical Engineering. Moreover, several applications, including the classification and detection of different medical areas such as electrocardiogram (ECG), knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, and colorectal cancer, are also explored. Moreover, I am looking into more medical fields to aid the specialist by exploring an automated system. Consequently, my insatiable thirst for knowledge drives me to seek a foundation upon which we may build a future where machines and humans coexist. The chance to broaden my social circle and learn from people with varying experiences and perspectives is one of my favourite parts of making new connections and expanding my capacity for success.
+Greetings! I am Kaniz Fatema, a Graduate Research and Teaching Assistant at Wilfrid Laurier University, Canada. Previously, I served as a Research Consultant and Research Assistant at Charles Darwin University (Australia) and United International University (Bangladesh). Since beginning my research journey in 2021, I have authored and co-authored multiple papers in Scopus-indexed Q1 journals. My research is driven by a strong focus on health informatics, medical imaging, computer vision, deep learning, and explainable AI. I have contributed to the development of intelligent diagnostic systems in areas such as ECG analysis, knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, colorectal cancer, and prostate imaging. At present, my work explores advanced architectures for medical image classification with limited data and segmentation of prostate structures from micro-ultrasound images. My passion lies in creating interpretable AI solutions that bridge clinical needs with cutting-edge technology, while fostering collaborations and building connections across diverse communities to broaden perspectives and success.
 </h3>
 <center>
-  <img align ="center" alt="Coding" width="850" height =" 450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
+  <img align ="center" alt="Coding" width="1000" height =" 450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
 </center>
-- 🔭 I’m currently working as a Research Consultant at Charles Darwin University (CDU), collaboration with Menzies School of Health Research, Australia(https://www.menzies.edu.au/)
-
-- 🌱 I’m currently learning **Federated learning, 3D medical image analysis**
-
-- 💬 Ask me about **Tensorflow, PyTORCH, Python, Deep learning, Machine learning, Computer Vision, and Image Processing**
-
-- 📫 How to reach me **kaniz15-12344@diu.edu.bd**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
+- 🔭 I’m currently working as a Graduate Research & Teaching Assistant at **Wilfrid Laurier University (WLU), Canada**.  
+- 🌱 I’m currently exploring **advanced neural architectures for medical imaging, federated learning, and 3D medical image analysis**.  
+- 💬 Ask me about **TensorFlow, PyTorch, Python, Deep Learning, Machine Learning, Computer Vision, and Medical Imaging**.  
+- 📫 How to reach me: **fate2180@mylaurier.ca**  
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
