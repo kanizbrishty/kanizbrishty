@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaniz Fatema</h1>
 <h3 align="left">
-<h3>
 Greetings! I am Kaniz Fatema, a Graduate Research and Teaching Assistant at Wilfrid Laurier University, Canada, with prior experience as a Research Consultant and Research Assistant at Charles Darwin University (Australia) and United International University (Bangladesh). I began my research journey in 2021 and have since published multiple papers in Scopus-indexed Q1 journals.  
 
 My research interests span health informatics, medical imaging, computer vision, deep learning, machine learning, image processing, progression analysis, segmentation, graph optimization, and explainable AI, with a strong focus on biomedical engineering. I have worked on diverse applications, including ECG analysis, knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, colorectal cancer, and prostate imaging. Currently, I am exploring federated learning and 3D medical image analysis to design intelligent, resource-efficient diagnostic systems that support clinicians in data-scarce environments.  
