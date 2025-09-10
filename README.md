@@ -7,10 +7,10 @@ My research interests span health informatics, medical imaging, computer vision,
 My passion lies in advancing interpretable AI for healthcare, fostering collaborations, and contributing to a future where intelligent systems augment human expertise. I also value building connections with diverse communities to broaden perspectives and enhance success.  
 </h3>
 
-<!-- Profile Picture -->
-<center>
-  <img src="https://avatars.githubusercontent.com/kanizbrishty" alt="Kaniz Fatema" width="200" height="200" style="border-radius:50%; margin-bottom:20px;">
-</center>
+<!-- Profile Picture on Left -->
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/kanizbrishty" alt="Kaniz Fatema" width="180" height="180" style="border-radius:50%; margin-right:20px;">
+</p>
 
 <!-- Research Banner GIF -->
 <center>
