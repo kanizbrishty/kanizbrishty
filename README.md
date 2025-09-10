@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kaniz Fatema</h1>
 
-<!-- Two-column layout -->
+<!-- Two-column layout using table (fix width and valign) -->
 <table>
   <tr>
     <!-- Left column: Profile Picture -->
-    <td width="40%" align="center">
-      <img src="https://avatars.githubusercontent.com/kanizbrishty" alt="Kaniz Fatema" width="200" height="200" style="border-radius:50%;">
+    <td width="35%" align="center" valign="top">
+      <img src="https://avatars.githubusercontent.com/kanizbrishty" alt="Kaniz Fatema" width="220" style="border-radius:50%; margin-top:20px;">
     </td>
     <!-- Right column: Intro Text -->
-    <td width="60%" align="left">
-      <h3>
+    <td width="65%" valign="top">
+      <h3 align="left">
       Greetings! I am Kaniz Fatema, a Graduate Research and Teaching Assistant at Wilfrid Laurier University, Canada, with prior experience as a Research Consultant and Research Assistant at Charles Darwin University (Australia) and United International University (Bangladesh). I began my research journey in 2021 and have since published multiple papers in Scopus-indexed Q1 journals.  
       <br><br>
       My research interests span health informatics, medical imaging, computer vision, deep learning, machine learning, image processing, progression analysis, segmentation, graph optimization, and explainable AI, with a strong focus on biomedical engineering. I have worked on diverse applications, including ECG analysis, knee osteoarthritis, otitis media, diabetic retinopathy, breast cancer, colorectal cancer, and prostate imaging. Currently, I am exploring federated learning and 3D medical image analysis to design intelligent, resource-efficient diagnostic systems that support clinicians in data-scarce environments.  
@@ -25,7 +25,6 @@
   <img align="center" alt="Research" width="850" height="450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
 </center>
 
----
 
 - 🔭 I’m currently working as a Graduate Research & Teaching Assistant at **Wilfrid Laurier University (WLU), Canada**.  
 - 🌱 I’m currently learning **Federated Learning, 3D Medical Image Analysis**.  
