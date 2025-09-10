@@ -6,8 +6,15 @@ My research interests span health informatics, medical imaging, computer vision,
 
 My passion lies in advancing interpretable AI for healthcare, fostering collaborations, and contributing to a future where intelligent systems augment human expertise. I also value building connections with diverse communities to broaden perspectives and enhance success.  
 </h3>
+
+<!-- Profile Picture -->
 <center>
-  <img align="center" alt="Coding" width="850" height="450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
+  <img src="https://avatars.githubusercontent.com/kanizbrishty" alt="Kaniz Fatema" width="200" height="200" style="border-radius:50%; margin-bottom:20px;">
+</center>
+
+<!-- Research Banner GIF -->
+<center>
+  <img align="center" alt="Research" width="850" height="450" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/research-scene-stock-gif-4081-1280x720-1.gif">
 </center>
 
 - 🔭 I’m currently working as a Graduate Research & Teaching Assistant at **Wilfrid Laurier University (WLU), Canada**.  
@@ -15,7 +22,8 @@ My passion lies in advancing interpretable AI for healthcare, fostering collabor
 - 💬 Ask me about **TensorFlow, PyTorch, Python, Deep Learning, Machine Learning, Computer Vision, and Medical Imaging**.  
 - 📫 How to reach me: **fate2180@mylaurier.ca**  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17QDi75_6ZlrHNCt2TwQe2a569DjsXgkJ/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
